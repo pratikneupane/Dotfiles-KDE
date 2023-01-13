@@ -56,7 +56,7 @@ font:
     x: 0
     y: 0
 
-background_opacity: 1
+window.opacity: 1
 
 colors:
   primary:
@@ -76,7 +76,7 @@ colors:
     matches:
       foreground: CellBackground
       background: '#88c0d0'
-    bar:
+    colors.footer_bar:
       background: '#434c5e'
       foreground: '#d8dee9'
   normal:
